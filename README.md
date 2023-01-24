@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Taqi Ali</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" aly="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taqiali&label=Profile%20views&color=0e75b6&style=flat" alt="taqiali" /> </p>
 
 - 🔭 I’m currently working on **React JS, Next JS**
@@ -11,8 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/taqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taqi" height="30" width="40" /></a>
-<a href="https://fb.com/taqi mughal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taqi mughal" height="30" width="40" /></a>
+<a href="https://twitter.com/@taqi167005871" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@taqi167005871" height="30" width="40" /></a>
 <a href="https://instagram.com/_taqi_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_taqi_ali" height="30" width="40" /></a>
 </p>
 
