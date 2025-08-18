@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Taqi Ali</h1>
-<h3 align="center">Senior Software Engineer</h3>
+<h3 align="center">Full Stack Developer | MERN STACK</h3>
 <img align="right" aly="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taqiali&label=Profile%20views&color=0e75b6&style=flat" alt="taqiali" /> </p>
 
