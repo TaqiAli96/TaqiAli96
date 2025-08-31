@@ -4,7 +4,7 @@
 <img align="right" aly="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taqiali&label=Profile%20views&color=0e75b6&style=flat" alt="taqiali" /> </p>
 
-- 🔭 I’m currently working on **React JS, Next JS**
+- 🔭 I’m currently working on **React JS, Next JS, Nest JS, Node JS**
 
 
 <h3 align="left">Connect with me:</h3>
